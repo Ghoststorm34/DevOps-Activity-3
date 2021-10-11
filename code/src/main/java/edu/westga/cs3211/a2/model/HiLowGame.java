@@ -2,7 +2,7 @@ package edu.westga.cs3211.a2.model;
 
 import java.util.Random;
 
-/** Manage checking guesses for a HiLowGame.
+/** Manage checking guesses for a High-Low Game.
  * 
  * @author CS 3211
  * @version Fall 2021
