@@ -29,4 +29,4 @@ jobs:
           echo Testing Project 1
           cd code
           mvn --batch-mode --update-snapshots verify
-          cd../..
+          cd ../..
